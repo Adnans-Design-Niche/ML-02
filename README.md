@@ -28,8 +28,6 @@ It opens a popup that can be used to draw with your finger.
 
 ## Contributors
 
-Mohammed Adnan Siddiqui
-
-@adn-sdq
+Mohammed Adnan Siddiqui 
 
 Rahul Pavan
