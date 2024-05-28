@@ -16,37 +16,11 @@ It utilizes the computer vision techniques of OpenCV and mediapipe to construct 
 ### 1. Clone the repository
 
 ```bash
-https://github.com/Adnans-Design-Niche/ML-01.git
+https://github.com/Adnans-Design-Niche/ML-02.git
 ```
+### 2. Run the Python Code
 
-### 2. Create a conda environment after opening the repository
-
-```bash
-conda create -n books python=3.7.10 -y
-```
-
-```bash
-conda activate books
-```
-
-
-### 3. Install the requirements
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the Jupyter Notebook
-
-```bash
-Books Recommender.ipynb
-```
-
-### 5. Run the Web Application with Streamlit
-
-```bash
-streamlit run app.py
-```
+It opens a popup that can be used to draw with your finger.
 
 ## Presentation
 
